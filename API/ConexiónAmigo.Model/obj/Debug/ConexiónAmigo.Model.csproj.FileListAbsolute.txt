@@ -1,0 +1,12 @@
+C:\Harshit\ChatApplication\ConexiónAmigo.Model\bin\Debug\ConexiónAmigo.Model.dll
+C:\Harshit\ChatApplication\ConexiónAmigo.Model\bin\Debug\ConexiónAmigo.Model.pdb
+C:\Harshit\ChatApplication\ConexiónAmigo.Model\obj\Debug\ConexiónAmigo.Model.csproj.AssemblyReference.cache
+C:\Harshit\ChatApplication\ConexiónAmigo.Model\obj\Debug\ConexiónAmigo.Model.csproj.CoreCompileInputs.cache
+C:\Harshit\ChatApplication\ConexiónAmigo.Model\obj\Debug\ConexiónAmigo.Model.dll
+C:\Harshit\ChatApplication\ConexiónAmigo.Model\obj\Debug\ConexiónAmigo.Model.pdb
+C:\Harshit\ChatApplication\API\ConexiónAmigo.Model\bin\Debug\ConexiónAmigo.Model.dll
+C:\Harshit\ChatApplication\API\ConexiónAmigo.Model\bin\Debug\ConexiónAmigo.Model.pdb
+C:\Harshit\ChatApplication\API\ConexiónAmigo.Model\obj\Debug\ConexiónAmigo.Model.csproj.AssemblyReference.cache
+C:\Harshit\ChatApplication\API\ConexiónAmigo.Model\obj\Debug\ConexiónAmigo.Model.csproj.CoreCompileInputs.cache
+C:\Harshit\ChatApplication\API\ConexiónAmigo.Model\obj\Debug\ConexiónAmigo.Model.dll
+C:\Harshit\ChatApplication\API\ConexiónAmigo.Model\obj\Debug\ConexiónAmigo.Model.pdb

@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.7" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="7.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ConexiónAmigo.Common\ConexiónAmigo.Common.csproj" />
+    <ProjectReference Include="..\ConexiónAmigo.Data\ConexiónAmigo.Data.csproj" />
+    <ProjectReference Include="..\ConexiónAmigo.Model\ConexiónAmigo.Model.csproj" />
+    <ProjectReference Include="..\ConexiónAmigo.Services\ConexiónAmigo.Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Asset\Images\" />
+  </ItemGroup>
+
+</Project>
